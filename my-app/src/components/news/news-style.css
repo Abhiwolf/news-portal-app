@@ -1,0 +1,41 @@
+
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.item-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.div-width {
+    width: 50%;
+}
+.img-style {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    padding: 0;
+    border: 1px solid white;
+}
+
+.title-style{
+    text-align: center;
+    color: #212121;
+}
+.des-style{
+    text-align: center;
+    font-size: 1rem; 
+    color: #4a4a4a;
+}
+
+.btn-style{
+    padding: 0;
+    border: 1px solid white;
+}
