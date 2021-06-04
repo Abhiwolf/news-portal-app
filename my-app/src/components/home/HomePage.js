@@ -3,7 +3,7 @@ import React from 'react';
 
 const HomePage = () => (
     <div className="jumbotron">
-        <h1>Condenast</h1>
+        <h4>News Portal Application</h4>
         <p>Assignment Project on React</p>
     </div>
 );
